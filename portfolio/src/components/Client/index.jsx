@@ -22,11 +22,11 @@ const Client = () => {
                     <div className="comments">
                         <p> 
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
-                            eros elementum tristique. Duis cursus, mi quis viverra ornare.
+                            eros elementum tristique. Duis cursus, mi quis viverra ornare."
                         </p>
                     </div>
                     <div className="profilClient">
-                        <img className='clientImage' src={slide} alt="" />
+                        {/* <img className='clientImage' src={slide} alt="" /> */}
                         <div className="detailClient">
                             <h5>Kouadja Richmond</h5>
                             <h6>position,Compagny name</h6>
@@ -46,11 +46,11 @@ const Client = () => {
                     <div className="comments">
                         <p> 
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
-                            eros elementum tristique. Duis cursus, mi quis viverra ornare.
+                            eros elementum tristique. Duis cursus, mi quis viverra ornare."
                         </p>
                     </div>
                     <div className="profilClient">
-                        <img className='clientImage' src={slide} alt="" />
+                        {/* <img className='clientImage' src={slide} alt="" /> */}
                         <div className="detailClient">
                             <h5>Kouadja Richmond</h5>
                             <h6>position,Compagny name</h6>
@@ -68,11 +68,11 @@ const Client = () => {
                     <div className="comments">
                         <p> 
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
-                            eros elementum tristique. Duis cursus, mi quis viverra ornare.
+                            eros elementum tristique. Duis cursus, mi quis viverra ornare."
                         </p>
                     </div>
                     <div className="profilClient">
-                        <img className='clientImage' src={slide} alt="" />
+                        {/* <img className='clientImage' src={slide} alt="" /> */}
                         <div className="detailClient">
                             <h5>Kouadja Richmond</h5>
                             <h6>position,Compagny name</h6>

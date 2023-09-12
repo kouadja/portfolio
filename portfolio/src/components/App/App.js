@@ -33,14 +33,14 @@ function App() {
     <Header/>
      <Feature/>
     <Framer/>
-    <Entreprise/>
+    {/* <Entreprise/> */}
     <Knowlage/>
     <Quality/>
-    <Parcours/>
+    {/* <Projet/> */}
+    {/* <Parcours/> */}
     <SearchMe/>
     <Client/>
-    <Projet/>
-   <Meet/>
+   {/* <Meet/> */}
   <Footer/>
   
     </div>

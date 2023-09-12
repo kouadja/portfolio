@@ -32,7 +32,7 @@ const Quality = () => {
                         data-aos-anchor-placement="center-bottom">
                            
                         <h2 id='name'>Elaboration d’un beau code pour un utilisateur transparent</h2>
-                        <p className=' mt-3 mb-3'>Bienvenue sur mon portfolio !Je suis Richmond kouadja koua, un développeur web passionné avec 2 ans d'expérience dans la création de sites web Mon parcours
+                        <p className=' mt-3 mb-3'> un développeur web passionné avec 2 ans d'expérience dans la création de sites web Mon parcours
                             est marqué par une curiosité insatiable pour la technologie, qui m'a conduit à me plonger dans le monde du codage .
                             Je suis spécialisé dans le développement
                             front-end et back-end.</p>

@@ -37,11 +37,11 @@ const Footer = () => {
                         </ul>
                     </div>
                     <div className="col-md-3 contentFooter">
-                        <h2 className='footerTitle'>Mes comptes</h2>
+                        <h2 className='footerTitle'>Contacter-moi</h2>
                         <ul>
                             <li><a href="">Mon GuitHub</a></li>
                             <li><a href="">Email</a></li>
-                            <li><a href="">Recrute moi</a></li>
+                            {/* <li><a href="">Recrute moi</a></li> */}
                         </ul>
                     </div>
                     <div className="col-md-3">
