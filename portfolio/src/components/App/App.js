@@ -6,7 +6,7 @@ import Entreprise from '../Entreprise';
 import Knowlage from '../Aquis';
 import Quality from '../Quality';
 import Parcours from '../Parcours';
-import Framer from '../../Framer/Framer';
+// import Framer from '../../Framer/Framer';
 import SearchMe from '../SearchMe';
 import Client from '../Client';
 import Projet from '../Projet';
